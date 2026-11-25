@@ -1,0 +1,108 @@
+{
+  "products": [
+    {
+      "id": "p1",
+      "name": "Cream Knit Poncho",
+      "category": "Women",
+      "price": 39.99,
+      "image": 0,
+      "description": "A cream knitted poncho with an open texture and fringed hem.",
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "colors": [
+        "Cream",
+        "Black",
+        "Pink"
+      ]
+    },
+    {
+      "id": "p2",
+      "name": "Floral Wrap Dress",
+      "category": "Women",
+      "price": 45.0,
+      "image": 1,
+      "description": "A light floral wrap dress with short sleeves and a flowing silhouette.",
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "colors": [
+        "Black",
+        "Cream"
+      ]
+    },
+    {
+      "id": "p3",
+      "name": "Sportwear Set",
+      "category": "Women",
+      "price": 80.0,
+      "image": 2,
+      "description": "A comfortable coordinated outfit for a relaxed, sporty look.",
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "colors": [
+        "Pink",
+        "Black"
+      ]
+    },
+    {
+      "id": "p4",
+      "name": "Classic Grey Hoodie",
+      "category": "Men",
+      "price": 29.0,
+      "image": 3,
+      "description": "A relaxed grey hoodie for casual outfits and cool evenings.",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "White",
+        "Black"
+      ]
+    },
+    {
+      "id": "p5",
+      "name": "Cotton T-shirt",
+      "category": "Men",
+      "price": 30.0,
+      "image": 4,
+      "description": "An easy-to-wear cotton T-shirt with a clean silhouette.",
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "colors": [
+        "Black",
+        "White"
+      ]
+    },
+    {
+      "id": "p6",
+      "name": "Summer Dress",
+      "category": "Women",
+      "price": 59.0,
+      "image": 5,
+      "description": "A light summer dress with an elegant flowing silhouette.",
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "colors": [
+        "White",
+        "Cream"
+      ]
+    }
+  ]
+}
