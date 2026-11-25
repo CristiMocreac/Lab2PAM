@@ -1,0 +1,23 @@
+name: gemstore_pixel
+description: GemStore catalog with Cubit and local JSON
+publish_to: none
+version: 1.0.0+1
+environment:
+  sdk: '>=3.7.0 <4.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_bloc: ^9.1.1
+dev_dependencies:
+  flutter_lints: ^6.0.0
+  flutter_test:
+    sdk: flutter
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/home.png
+    - assets/images/detail.png
+    - assets/data/products.json
+    - assets/images/products/
+
+
